@@ -18,7 +18,7 @@ Cors: Middleware to enable CORS (Cross-Origin Resource Sharing).
 
 # Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/tracker-app.git
+   git clone https://github.com/shekhar-2410/Tracker_App
 2. Navigate to the project directory:
    cd tracker-app
 3. Install dependencies:
